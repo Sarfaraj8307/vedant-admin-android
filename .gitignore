@@ -10,3 +10,6 @@ local.properties
 .DS_Store
 *.jks
 *.keystore
+
+# Build and emulator logs — output, not source
+*.log
